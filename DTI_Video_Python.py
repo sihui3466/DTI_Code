@@ -26,6 +26,5 @@ while True:
             print("pause")
             media_player.set_pause(3) #pause for 3 sec
             time.sleep(0.5) #delay 0.5sec
-
             
-
+##End of Code         
