@@ -28,4 +28,4 @@ while True:
             time.sleep(0.5) #delay 0.5sec
             
 ##End of Code         
-#Team 3 Cohort 10
+#Team 3 Cohort 10 DTI
