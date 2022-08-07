@@ -16,7 +16,7 @@ while True:
         ser.flushInput()
         print("new command:", command)
         decode=command.decode("utf-8") #convert data in arduino from bytes to integer
-        print("decoded value: ",decode)
+        print("decoded value: ",decode)#print data in arduino
 ##        print("decoded command: ", decode)
         if str(decode) == '1': #if user is cycling (1) play the video
             print("Playing movie")
